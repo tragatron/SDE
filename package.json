@@ -1,0 +1,22 @@
+{
+  "name": "superdungeonexplore",
+  "version": "1.0.0",
+  "description": "SDE Randomizer",
+  "main": "server.js",
+  "dependencies" : {
+    "angular": "^1.4.7",
+    "angular-resource": "^1.4.7",
+    "body-parser": "^1.14.1",
+    "bootstrap": "^3.3.5",
+    "express": "^4.13.3",
+    "mongodb": "^2.0.45",
+    "mongoose": "^4.1.10",
+    "node": "^0.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Ryan Traeger",
+  "license": "ISC"
+}
