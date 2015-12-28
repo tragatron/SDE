@@ -1,0 +1,18 @@
+.image{
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  margin-top: auto;
+  background-image: url(/images/super-dungeon-explore.png);
+  position: fixed;
+}
+
+.heroes{
+  margin-top: 100px;
+  float: left;
+}
+
+.consul{
+  margin-top: 100px;
+  float: right;
+}
